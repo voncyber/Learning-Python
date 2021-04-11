@@ -1,0 +1,8 @@
+<Hello World Script:>
+print ('hello world!')
+<file will print hello world!>
+
+<math>
+print (3*5)
+
+
